@@ -1,1 +1,1 @@
-# klasifikasi_stroke
+# klasifikasi_Stroke_Metode_Naive_Bayes
